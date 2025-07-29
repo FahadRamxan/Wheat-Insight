@@ -7,7 +7,7 @@ Leveraging Artificial Intelligence and Computer Vision to Help the Agricultural 
 ## 📽️ Project Overview Video
 
 Watch the project demo here:  
-[![Wheat Insight Final Linkedin](Wheat%20Insight%20Final%20Linkedin.mp4)](Wheat%20Insight%20Final%20Linkedin.mp4)
+
 
 ---
 
